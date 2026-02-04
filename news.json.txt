@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "title": "Local PC Gains Sentience",
+      "body": "Experts claim the computer now demands coffee breaks.",
+      "date": "2032-04-12"
+    },
+    {
+      "title": "Unity Dev Spends 8 Hours Fixing One Bug",
+      "body": "Bug was a missing semicolon. Tragic.",
+      "date": "2032-04-13"
+    }
+  ]
+}
