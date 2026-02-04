@@ -1,14 +1,34 @@
 {
   "articles": [
     {
-      "title": "Local PC Gains Sentience",
-      "body": "Experts claim the computer now demands coffee breaks.",
+      "title": "Local Computer Boots Up Slightly Faster Than Yesterday",
+      "body": "Experts are unsure why the system started in 14.2 seconds instead of 14.3. The computer declined to comment, but did make a strange clicking noise.",
+      "date": "2032-04-10"
+    },
+    {
+      "title": "New Operating System Update Adds Button That Does Nothing",
+      "body": "Users report the button looks important but has no visible effect. Pressing it repeatedly provides emotional comfort.",
+      "date": "2032-04-11"
+    },
+    {
+      "title": "Researchers Discover Folder That No One Remembers Creating",
+      "body": "The folder, named 'new_final_v3_REAL', contains nothing but older folders with the same name.",
       "date": "2032-04-12"
     },
     {
-      "title": "Unity Dev Spends 8 Hours Fixing One Bug",
-      "body": "Bug was a missing semicolon. Tragic.",
+      "title": "Internet Slows Down After 9PM For Unknown Reasons",
+      "body": "Network engineers insist nothing changes at night. Users disagree, stating the internet becomes 'tired'.",
       "date": "2032-04-13"
+    },
+    {
+      "title": "User Accidentally Fixes Bug By Staring At Code Long Enough",
+      "body": "The issue resolved itself shortly after the user whispered 'please' to the monitor.",
+      "date": "2032-04-14"
+    },
+    {
+      "title": "System Clock Gains One Second, Refuses To Give It Back",
+      "body": "Time synchronization services are investigating. The clock insists the second was 'earned'.",
+      "date": "2032-04-15"
     }
   ]
 }
